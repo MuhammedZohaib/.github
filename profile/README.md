@@ -2,6 +2,7 @@
 
 ### Main Repositories
 
+- [iron-fish/ironfish](https://github.com/iron-fish/ironfish): The monorepo that contains Iron Fish SDK and CLI
 - [iron-fish/website](https://github.com/iron-fish/website): The repo that powers [ironfish.network](https://ironfish.network)
 - [iron-fish/ironfish-api](https://github.com/iron-fish/ironfish-api): The repository that powers most Iron Fish API services.
 - [iron-fish/ironfish-node-app](https://github.com/iron-fish/ironfish-node-app): Desktop app to run and manage an Iron Fish node
